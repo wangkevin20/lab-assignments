@@ -28,7 +28,7 @@ this is a list of all good members
 3. numbers
 
 - [x] left
-- [] free time
+- [ ] free time
 
 
 This is the code that we somewhat need now:
